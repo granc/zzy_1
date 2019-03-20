@@ -27,6 +27,8 @@ public class OaTest {
         System.out.println(ncalendar.get(Calendar.HOUR_OF_DAY));
 //分
         System.out.println(ncalendar.get(Calendar.MINUTE));
+        System.out.println(ncalendar.get(Calendar.MINUTE));
+
     }
 
     //用来判断一个时间是不是同一天
